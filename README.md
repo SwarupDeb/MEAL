@@ -1,6 +1,8 @@
 # Meal App
 
 Welcome to the Meal App repository! This web application allows users to search for meals, view meal details, and manage a favorites list. It is built using HTML, CSS, and JavaScript.
+![MealAPP](https://github.com/SwarupDeb/MEAL/assets/55588687/5d68ae40-0a9c-4149-be91-2e48682eae19)
+
 
 ## Table of Contents
 - [Features](#features)
